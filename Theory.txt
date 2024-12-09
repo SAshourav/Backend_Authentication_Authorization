@@ -1,0 +1,8 @@
+Server always forgets who are you, so every time you are going to do somthing , it will ask you again and again that you are you?
+
+To solve this , we have cookie and session .
+
+1) how to set cookie
+2) how to use bcypt
+3) what is jwt and how to store data in jwt and get data form that
+
